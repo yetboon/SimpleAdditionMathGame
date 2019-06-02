@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\SimpleAdditionMathGame\SimpleAdditionMathGame\obj\Debug\SimpleAdditionMathGame.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\SimpleAdditionMathGame\SimpleAdditionMathGame\bin\Debug\SimpleAdditionMathGame.exe.config
+C:\Users\Administrator\Documents\SharpDevelop Projects\SimpleAdditionMathGame\SimpleAdditionMathGame\bin\Debug\SimpleAdditionMathGame.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\SimpleAdditionMathGame\SimpleAdditionMathGame\bin\Debug\SimpleAdditionMathGame.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\SimpleAdditionMathGame\SimpleAdditionMathGame\obj\Debug\SimpleAdditionMathGame.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\SimpleAdditionMathGame\SimpleAdditionMathGame\obj\Debug\SimpleAdditionMathGame.pdb
